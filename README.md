@@ -1,2 +1,2 @@
 # chess_java
-a game java for chess
+Applying the knowledge learned from object-oriented JAVA such as Encapsulation, Polymorphism, Inheritance and Abstraction to the construction of a chess game project
